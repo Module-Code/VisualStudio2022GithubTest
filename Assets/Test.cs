@@ -11,12 +11,16 @@ public class Test : MonoBehaviour
     //Test4
     void Start()
     {
-        
+
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+		Hello();
+	}
+
+    public void Hello(){
+        //Test
     }
 }
