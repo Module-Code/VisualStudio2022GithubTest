@@ -18,9 +18,14 @@ public class Test : MonoBehaviour
     void Update()
     {
 		Hello();
+        Goodbye();
 	}
 
     public void Hello(){
         //Test
     }
+	public void Goodbye()
+	{
+		//Test
+	}
 }
